@@ -1,0 +1,8 @@
+# Ignore everything in this folder...
+*
+
+# ...except the group project notebook
+!chapter8GroupProject.ipynb
+
+# Keep this .gitignore tracked too
+!.gitignore
